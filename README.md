@@ -2,10 +2,10 @@
 
 I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology in college [The STMIK IKMI Cirebon](https://ikmi.ac.id/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ilham-nur-hermawan/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/hamhrmwn)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/@ilhamblockchain)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:hamhrmwn@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ilhamnurhermawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilham-nur-hermawan/)](https://www.linkedin.com/in/ilham-nur-hermawan/)
+[![Instagram Badge](https://img.shields.io/badge/-hamhrmwn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hamhrmwn/)](https://instagram.com/hamhrmwn)
+[![Youtube Badge](https://img.shields.io/badge/-Ilham Blockchain-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ilhamblockchain)](https://www.youtube.com/@ilhamblockchain)
+[![Gmail Badge](https://img.shields.io/badge/-hamhrmwn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamhrmwn@gmail.com)](mailto:hamhrmwn@gmail.com)
 
 ## ⚡ Technologies
 
@@ -14,7 +14,6 @@ I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology i
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)

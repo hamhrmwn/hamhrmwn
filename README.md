@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/hamhrmwn/hamhrmwn/master/wave.gif" width="30">
 
-I am Ilham Nur Hermawan, people call me Ilham, a student in college [The STMIK IKMI Cirebon](https://ikmi.ac.id/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology in college [The STMIK IKMI Cirebon](https://ikmi.ac.id/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ilham-nur-hermawan/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/hamhrmwn)

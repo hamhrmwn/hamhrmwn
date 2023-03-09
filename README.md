@@ -4,7 +4,7 @@ I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology i
 
 [![Linkedin Badge](https://img.shields.io/badge/-IlhamNurHermawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilham-nur-hermawan/)](https://www.linkedin.com/in/ilham-nur-hermawan/)
 [![Instagram Badge](https://img.shields.io/badge/-hamhrmwn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hamhrmwn/)](https://instagram.com/hamhrmwn)
-[![Youtube Badge](https://img.shields.io/badge/-IlhamBlockchain-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ilhamblockchain)](https://www.youtube.com/@ilhamblockchain)
+<!-- [![Youtube Badge](https://img.shields.io/badge/-IlhamBlockchain-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@ilhamblockchain)](https://www.youtube.com/@ilhamblockchain) -->
 [![Gmail Badge](https://img.shields.io/badge/-hamhrmwn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamhrmwn@gmail.com)](mailto:hamhrmwn@gmail.com)
 
 ## ⚡ Technologies
